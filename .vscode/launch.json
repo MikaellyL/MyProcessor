@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/frerp/OneDrive/Área de Trabalho/Faculdade/Arquitetura de computadores/Trabalhos/Projeto_Parte_2_oficial/MyProcessor",
+      "program": "c:/Users/frerp/OneDrive/Área de Trabalho/Faculdade/Arquitetura de computadores/Trabalhos/Projeto_Parte_2_oficial/MyProcessor/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
